@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9120" started-at="2018-10-29T05:20:06Z" finished-at="2018-10-29T05:20:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9120" started-at="2018-10-29T05:20:06Z" finished-at="2018-10-29T05:20:15Z">
+      <class name="nsstodolisttestcases.addcategory">
+        <test-method status="PASS" signature="setup()[pri:0, instance:nsstodolisttestcases.addcategory@69b0fd6f]" name="setup" is-config="true" duration-ms="4667" started-at="2018-10-29T05:20:06Z" finished-at="2018-10-29T05:20:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="addnewcategory()[pri:0, instance:nsstodolisttestcases.addcategory@69b0fd6f]" name="addnewcategory" duration-ms="1905" started-at="2018-10-29T05:20:10Z" finished-at="2018-10-29T05:20:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addnewcategory -->
+        <test-method status="PASS" signature="aftertest()[pri:0, instance:nsstodolisttestcases.addcategory@69b0fd6f]" name="aftertest" is-config="true" duration-ms="2516" started-at="2018-10-29T05:20:12Z" finished-at="2018-10-29T05:20:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+      </class> <!-- nsstodolisttestcases.addcategory -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
